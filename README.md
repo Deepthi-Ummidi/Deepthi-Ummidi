@@ -51,6 +51,15 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+🏅 Achievements & Certifications
+
+- 🎓 Infosys Springboard Full-Stack Development Internship
+- 📜 Microsoft AI-900: AI Fundamentals Certified
+- 🏆 Oracle Foundations Associate
+- 🧠 Oracle Cloud GenAI Professional
+- 📜NPTEL Certification – Programming in Java
+- ✅ Career Essentials in Generative AI (Microsoft + LinkedIn)
+---
 📬 Let's Connect!
 Feel free to reach out if you want to collaborate or just say hi!  
 📧 [deepthiummidi75@gmail.com](mailto:deepthiummidi75@gmail.com)  
