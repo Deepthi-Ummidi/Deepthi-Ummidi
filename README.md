@@ -9,14 +9,12 @@
 - 🎯 Focused on continuous learning and adaptability
 
 ---
-📄 [My Resume](https://drive.google.com/file/d/1DBbRETRukCCde6XoRIPPcfSljZ2sPLyG/view?usp=drive_link)
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Ummidi&show_icons=true&theme=radical" alt="Deepthi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Ummidi&layout=compact&theme=radical" alt="Top Languages" />
+  <a href=[(https://drive.google.com/file/d/1DBbRETRukCCde6XoRIPPcfSljZ2sPLyG/view?usp=drive_link)]
+    <img src="https://img.shields.io/badge/📄%20My%20Resume-blue?style=for-the-badge" alt="Resume"/>
+  </a>
 </p>
+
 
 ---
 
