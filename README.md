@@ -9,6 +9,13 @@
 - 🎯 Focused on continuous learning and adaptability
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Ummidi&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Ummidi&layout=compact&theme=radical" width="48%" />
+</p>
+
 ---
 
 🙋‍♀️ Know More About Me
