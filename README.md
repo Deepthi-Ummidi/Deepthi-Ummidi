@@ -5,6 +5,7 @@
 - 💻 Skilled in: `Java`, `Spring Boot`, `React`, `HTML`, `CSS`, `SQL`, `MongoDB`
 - 👩‍💻 Actively building full-stack projects and contributing to open-source
 - 📫 Reach me at: [deepthiummidi](https://www.linkedin.com/in/deepthiummidi/)
+- Email me at:[deepthiummidi75@gmail.com](mailto:deepthiummidi75@gmail.com)  
 - 🎯 Focused on continuous learning and adaptability
 
 ---
