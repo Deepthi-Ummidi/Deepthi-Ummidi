@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepthi Ummidi</h1>
 <h3 align="center">Final-year CSE student | Full-stack Developer | Open to Opportunities</h3>
 
-- 🌱 Currently learning **Spring Boot**, **React**, and deepening my backend skills  
-- 💻 Skilled in: `Java`, `Spring Boot`, `React`, `HTML`, `CSS`, `SQL`, `MongoDB`
+- 🌱 Currently learning **React Js**
+- 💻 Skilled in: `Java`, `Spring Boot`, `HTML`, `CSS`, `SQL`,'JS' `MongoDB`
 - 👩‍💻 Actively building full-stack projects and contributing to open-source
 - 📫 Reach me at: [deepthiummidi](https://www.linkedin.com/in/deepthiummidi/)
 - Email me at:[deepthiummidi75@gmail.com](mailto:deepthiummidi75@gmail.com)  
