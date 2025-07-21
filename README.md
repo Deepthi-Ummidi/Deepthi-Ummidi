@@ -9,6 +9,7 @@
 - 🎯 Focused on continuous learning and adaptability
 
 ---
+📄 [My Resume](https://drive.google.com/file/d/1DBbRETRukCCde6XoRIPPcfSljZ2sPLyG/view?usp=drive_link)
 
 ### 📊 GitHub Stats:
 <p align="center">
