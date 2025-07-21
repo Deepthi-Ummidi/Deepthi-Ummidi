@@ -9,11 +9,7 @@
 - 🎯 Focused on continuous learning and adaptability
 
 ---
-<p align="center">
-  <a href=[(https://drive.google.com/file/d/1DBbRETRukCCde6XoRIPPcfSljZ2sPLyG/view?usp=drive_link)]
-    <img src="https://img.shields.io/badge/📄%20My%20Resume-blue?style=for-the-badge" alt="Resume"/>
-  </a>
-</p>
+
 
 
 ---
