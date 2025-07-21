@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepthi Ummidi</h1>
+<h1 align="center">Hi 👋, I'm @Deepthi Ummidi</h1>
 <h3 align="center">Final-year CSE student | Full-stack Developer | Open to Opportunities</h3>
 
 - 🌱 Currently learning **React Js**
@@ -19,7 +19,7 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Social
 <p align="center">
   <a href="https://www.linkedin.com/in/deepthiummidi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
