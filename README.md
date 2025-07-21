@@ -5,7 +5,7 @@
 - 💻 Skilled in: `Java`, `Spring Boot`, `HTML`, `CSS`, `SQL`, `MongoDB`, `Js`
 - 👩‍💻 Actively building full-stack projects and contributing to open-source
 - 📫 Reach me at: [deepthiummidi](https://www.linkedin.com/in/deepthiummidi/)
-- Email me at:[deepthiummidi75@gmail.com](mailto:deepthiummidi75@gmail.com)  
+- 📧Email me at:[deepthiummidi75@gmail.com](mailto:deepthiummidi75@gmail.com)  
 - 🎯 Focused on continuous learning and adaptability
 
 ---
@@ -18,14 +18,11 @@
 - 🧠 Quick learner with strong adaptability and curiosity  
 - 🤝 Always open to learning, collaboration, and new challenges  
 
----
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1DBbRETRukCCde6XoRIPPcfSljZ2sPLyG/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄%20My%20Resume-blue?style=for-the-badge" alt="Resume"/>
   </a>
 </p>
-
 
 
 ---
