@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **React Js**
 - 💻 Skilled in: `Java`, `Spring Boot`, `HTML`, `CSS`, `SQL`, `MongoDB`, `Js`
-- 👩‍💻 Actively building full-stack projects and contributing to open-source
+- 👩‍💻 Actively building full-stack projects to strengthen my development skills and gain hands-on experience with modern technologies.
 - 📫 Reach me at: [deepthiummidi](https://www.linkedin.com/in/deepthiummidi/)
 - 📧Email me at:[deepthiummidi75@gmail.com](mailto:deepthiummidi75@gmail.com)  
 - 🎯 Focused on continuous learning and adaptability
