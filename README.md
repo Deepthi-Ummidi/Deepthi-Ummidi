@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1DBbRETRukCCde6XoRIPPcfSljZ2sPLyG/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20My%20Resume-blue?style=for-the-badge" alt="Resume"/>
+    <img src="(https://drive.google.com/file/d/172PAfvPnOgMaQEGlqqLYuAvWuWTyQIh6/view?usp=drive_link)" alt="Resume"/>
   </a>
 </p>
 
