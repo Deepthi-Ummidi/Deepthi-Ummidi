@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/172PAfvPnOgMaQEGlqqLYuAvWuWTyQIh6/view?usp=drive_link" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/000000/resume.png" alt="Resume" width="80"/>
+    <img src=""https://img.icons8.com/color/96/resume.png" alt="Resume" width="80"/>
   </a>
 </p>
 
