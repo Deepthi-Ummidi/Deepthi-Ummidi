@@ -72,5 +72,6 @@
 Feel free to reach out if you want to collaborate or just say hi!  
 📧 [deepthiummidi75@gmail.com](mailto:deepthiummidi75@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/deepthiummidi/)
+🔗 [Portfolio](https://shorturl.at/cMWyP)
 
 ---
